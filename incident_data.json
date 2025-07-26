@@ -1,0 +1,2597 @@
+
+[
+  {
+    "title": "Bureau Veritas Expands its Footprint in New Strongholds Through Acquisitions in Cybersecurity, Nuclear and Transition Services",
+    "summary": "PARIS Bureau Veritas, a global leader in Testing, Inspection, and Certification services (TIC), announces three targeted acquisitions in the fast-growing sectors of Cybersecurity, Nuclear, and Transi… [+3163 chars]",
+    "named_entities": [
+      {
+        "text": "PARIS Bureau",
+        "label": "ORG"
+      },
+      {
+        "text": "Testing, Inspection",
+        "label": "ORG"
+      },
+      {
+        "text": "Certification",
+        "label": "ORG"
+      },
+      {
+        "text": "Cybersecurity, Nuclear",
+        "label": "ORG"
+      },
+      {
+        "text": "Transi",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.727231"
+  },
+  {
+    "title": "Fujitsu to cut at least 100 more UK staff",
+    "summary": "Fujitsu has put nearly 500 UK employees on notice of possible redundancy, as it plans to cut more than 100 roles.The supplier could face financial pressure in the coming months when it finally contri… [+4165 chars]",
+    "named_entities": [
+      {
+        "text": "Fujitsu",
+        "label": "ORG"
+      },
+      {
+        "text": "UK",
+        "label": "GPE"
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.735027"
+  },
+  {
+    "title": "Digital sovereignty becomes a matter of resilience for Europe",
+    "summary": "In this Help Net Security interview, Benjamin Schilz, CEO of Wire, discusses Europes push for digital sovereignty through initiatives like Gaia-X and the EU AI Act. As the continent redefines its tec… [+5013 chars]",
+    "named_entities": [
+      {
+        "text": "Benjamin Schilz",
+        "label": "PERSON"
+      },
+      {
+        "text": "Gaia-X",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.742086"
+  },
+  {
+    "title": "BUREAU VERITAS - Robust organic revenue growth and strong margin increase in H1 2025 as the LEAP | 28 strategy execution accelerates; Confirmed 2025 outlook",
+    "summary": "PRESS RELEASE\r\nCourbevoie, France July 25, 2025\r\nRobust organic revenue growth and strong margin increase in H1 2025 \r\nas the LEAP | 28 strategy execution accelerates;\r\nConfirmed 2025 outlook\r\nH1 202… [+83412 chars]",
+    "named_entities": [
+      {
+        "text": "Courbevoie",
+        "label": "GPE"
+      },
+      {
+        "text": "France",
+        "label": "GPE"
+      },
+      {
+        "text": "July 25, 2025\r\n",
+        "label": "DATE"
+      },
+      {
+        "text": "H1 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "LEAP",
+        "label": "ORG"
+      },
+      {
+        "text": "2025",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.751884"
+  },
+  {
+    "title": "Bureau Veritas expands its footprint in new strongholds through acquisitions in Cybersecurity, Nuclear and Transition Services",
+    "summary": "PRESS RELEASE\r\nParis July 25th, 2025\r\nBureau Veritas expands its footprint in new strongholds through acquisitions in Cybersecurity, Nuclear and Transition Services \r\nBureau Veritas, a global leader … [+3352 chars]",
+    "named_entities": [
+      {
+        "text": "Paris",
+        "label": "GPE"
+      },
+      {
+        "text": "July 25th,",
+        "label": "DATE"
+      },
+      {
+        "text": "2025",
+        "label": "DATE"
+      },
+      {
+        "text": "Cybersecurity, Nuclear and Transition Services \r\nBureau",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.759060"
+  },
+  {
+    "title": "What 50 companies got wrong about cloud identity security",
+    "summary": "Most organizations still miss basic identity security controls in the cloud, leaving them exposed to breaches, audit failures, and compliance violations. A new midyear benchmark from Unosecur found t… [+3100 chars]",
+    "named_entities": [
+      {
+        "text": "midyear",
+        "label": "DATE"
+      },
+      {
+        "text": "Unosecur",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.768254"
+  },
+  {
+    "title": "Sinkholing Suspicious Scripts or Executables on Linux, (Fri, Jul 25th)",
+    "summary": "When you need to analyze some suspicious pieces of code, it's interesting to detonate them in a sandbox. If you don't have a complete sandbox environment available or you just want to avoid generatin… [+6414 chars]",
+    "named_entities": [],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.776609"
+  },
+  {
+    "title": "FBI Warning—Do Not Install This App On Your PC Or Smartphone",
+    "summary": "It starts with a message it ends with you losing your life savings.\r\nNurPhoto via Getty Images\r\nRepublished on July 25 with information on new tactics as attacks evolve.\r\nIt starts with an unsolicite… [+7029 chars]",
+    "named_entities": [
+      {
+        "text": "NurPhoto",
+        "label": "ORG"
+      },
+      {
+        "text": "Getty Images\r\nRepublished",
+        "label": "ORG"
+      },
+      {
+        "text": "July 25",
+        "label": "DATE"
+      },
+      {
+        "text": "+7029",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.783608"
+  },
+  {
+    "title": "Nike Shox Ride 2 “Bright Cactus” Releases August 2025",
+    "summary": "The Nike Shox Ride 2 Bright Cactus will be released on August 6, 2025. Paired with Black and Volt accents, the shoes feature denim and frayed areas. The retail price is $210.\r\nWe will receive new col… [+1705 chars]",
+    "named_entities": [
+      {
+        "text": "August 6, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "Volt",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.792147"
+  },
+  {
+    "title": "WaPo abandons last shred of self-awareness and publishes a how-to list about becoming a journalist",
+    "summary": "The Washington Post published a new article on Wednesday by Catherine Rampell, detailing eleven “tips” on how to be a journalist with your own column. Rampell began her how-to instruction with rule n… [+3792 chars]",
+    "named_entities": [
+      {
+        "text": "The Washington Post",
+        "label": "ORG"
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE"
+      },
+      {
+        "text": "Catherine Rampell",
+        "label": "PERSON"
+      },
+      {
+        "text": "Rampell",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.812533"
+  },
+  {
+    "title": "Top 5 Sites To Get The Biggest NordVPN Promo Codes",
+    "summary": "Privacy and security are more important than ever. NordVPN has become one of the go-to services for online protection, offering enhanced security, anonymity, and access to global content.\r\nHowever, t… [+6103 chars]",
+    "named_entities": [],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.820066"
+  },
+  {
+    "title": "Qantas cyber attack: Kiwis cannot join Aussie legal complaint but can complain in NZ, expert says",
+    "summary": "Shaw added: In New Zealand if people were impacted by the breach by Qantas they would make a complaint to the Office of the Privacy Commissioner. \r\nHe said the office would consider the complaint and… [+2508 chars]",
+    "named_entities": [
+      {
+        "text": "Shaw",
+        "label": "ORG"
+      },
+      {
+        "text": "New Zealand",
+        "label": "GPE"
+      },
+      {
+        "text": "Qantas",
+        "label": "ORG"
+      },
+      {
+        "text": "the Office of the Privacy Commissioner",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.828082"
+  },
+  {
+    "title": "How to Play Adeptus Mechanicus in Warhammer 40K",
+    "summary": "Today let’s take a look at some basics of how to play and get started with Warhammer 40k Adeptus Mechanicus.\r\nThe Adeptus Mechanicus are the might of the Machine God made manifest. When the Mechanicu… [+9682 chars]",
+    "named_entities": [
+      {
+        "text": "Today",
+        "label": "DATE"
+      },
+      {
+        "text": "40k",
+        "label": "DATE"
+      },
+      {
+        "text": "The Adeptus Mechanicus",
+        "label": "ORG"
+      },
+      {
+        "text": "Mechanicu",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.836091"
+  },
+  {
+    "title": "The White House AI Action Plan: a new chapter in U.S. AI policy",
+    "summary": "On July 23, 2025, the White House unveiled its AI Action Plan\r\n (Plan), a significant policy document outlining the current administration's priorities and deliverables in Artificial Intelligence. Th… [+11139 chars]",
+    "named_entities": [
+      {
+        "text": "July 23, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "the White House",
+        "label": "ORG"
+      },
+      {
+        "text": "Artificial Intelligence",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.847382"
+  },
+  {
+    "title": "Elon Musk ‘sorry’ after Starlink satellite internet suffers global outage",
+    "summary": "SpaceXs Starlink satellite internet has suffered one of its biggest international outages, knocking tens of thousands of users offline, a rare disruption that prompted an apology from senior executiv… [+1766 chars]",
+    "named_entities": [
+      {
+        "text": "SpaceXs Starlink",
+        "label": "ORG"
+      },
+      {
+        "text": "executiv",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.857521"
+  },
+  {
+    "title": "Elon Musk's Starlink network suffers rare global outage",
+    "summary": "SpaceX's Starlink suffered one of its biggest international outages when an internal software failure knocked tens of thousands of users offline, a rare disruption for Elon Musk's powerful satellite … [+2924 chars]",
+    "named_entities": [
+      {
+        "text": "SpaceX",
+        "label": "PERSON"
+      },
+      {
+        "text": "Starlink",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.864923"
+  },
+  {
+    "title": "13 Movies That Play Out Like Video Games",
+    "summary": "Not every movie needs to feel like homework. Sometimes, we just want to dive headfirst into a cinematic world where the rules are clear, the stakes are high, and every challenge feels like the next l… [+14712 chars]",
+    "named_entities": [],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.872932"
+  },
+  {
+    "title": "AI Agents - The Internet Is Being Rewritten - Survey Users Vs Brands?",
+    "summary": "SAN DIEGO, CA - APRIL 30: The start of cybersex in the 1990's, Megan, a 26 yr old cyber stripper ... More with the online company \"Virtual Dreams\", founded by Gary Mittman an early entrepreneur in th… [+4696 chars]",
+    "named_entities": [
+      {
+        "text": "SAN DIEGO",
+        "label": "GPE"
+      },
+      {
+        "text": "1990",
+        "label": "DATE"
+      },
+      {
+        "text": "Megan",
+        "label": "PERSON"
+      },
+      {
+        "text": "Gary Mittman",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.881947"
+  },
+  {
+    "title": "5,400,000 Americans’ Personal Health Information Stolen in Massive Ransomware Attack on Medical Billing Company",
+    "summary": "A healthcare tech company is warning millions of Americans that their personal data has been stolen by hackers.\r\nData breach notices from Vermont and California’s state governments say Episource whic… [+1879 chars]",
+    "named_entities": [
+      {
+        "text": "Americans",
+        "label": "NORP"
+      },
+      {
+        "text": "Vermont",
+        "label": "GPE"
+      },
+      {
+        "text": "California",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.888956"
+  },
+  {
+    "title": "Morning Headlines 7/25/25",
+    "summary": "ASTP/ONC Standards Bulletin 2025-2\r\nASTP/ONC releases USCDI v6 with new data elements that include implantable medical device UDI, portable medical orders, facility address, care plan, date of onset,… [+787 chars]",
+    "named_entities": [
+      {
+        "text": "ONC",
+        "label": "ORG"
+      },
+      {
+        "text": "USCDI",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.896577"
+  },
+  {
+    "title": "Colabor Group Reports Results for the Second Quarter 2025",
+    "summary": "Outlook\r\nThe recent Acquisition positions us well to differentiate ourselves in a competitive market. In the second half of the year, we plan to focus on optimizing our activities in order to generat… [+7156 chars]",
+    "named_entities": [
+      {
+        "text": "the second half of the year",
+        "label": "DATE"
+      },
+      {
+        "text": "generat",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.903920"
+  },
+  {
+    "title": "Colabor Group Reports Results for the Second Quarter 2025",
+    "summary": "SAINT-BRUNO-DE-MONTARVILLE, Quebec, July 24, 2025 (GLOBE NEWSWIRE) -- Colabor Group Inc. (TSX: GCL) (Colabor or the Company) reports its results for the second quarter ended June 14, 2025.\r\nSecond Qu… [+16255 chars]",
+    "named_entities": [
+      {
+        "text": "SAINT-BRUNO-DE-MONTARVILLE",
+        "label": "PERSON"
+      },
+      {
+        "text": "Quebec",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "Colabor Group Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "TSX",
+        "label": "ORG"
+      },
+      {
+        "text": "the second quarter ended June 14, 2025",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.911930"
+  },
+  {
+    "title": "‘NCIS: Tony & Ziva’ Flirt a Bunch, Get Framed for International Cyber Attack in Comic-Con Trailer for Paramount+ Spinoff",
+    "summary": "“NCIS” fan-favorites Anthony DiNozzo and Ziva David are back for a giant international mission, so get ready for plenty of flirting and crime-fighting. \r\nThe first trailer for Paramount+ spinoff seri… [+2130 chars]",
+    "named_entities": [
+      {
+        "text": "NCIS",
+        "label": "ORG"
+      },
+      {
+        "text": "Anthony DiNozzo",
+        "label": "PERSON"
+      },
+      {
+        "text": "Ziva David",
+        "label": "PERSON"
+      },
+      {
+        "text": "Paramount+ spinoff seri",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.919034"
+  },
+  {
+    "title": "Elon Musk Releases Statement After Starlink Global Outage",
+    "summary": "Elon Musk has issued a statement following a major global outage that knocked thousands of Starlink users offline late Thursday night.\r\nReports of the disruption began around 3:00 PM EST/9:00 p.m. CE… [+4093 chars]",
+    "named_entities": [
+      {
+        "text": "Elon Musk",
+        "label": "PERSON"
+      },
+      {
+        "text": "Starlink",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.926034"
+  },
+  {
+    "title": "Commentary: As cyber threats grow, Singapore walks a careful line on identifying state actors",
+    "summary": "While Singapore avoids attributing cyber threats to specific states, naming and shaming is the preferred approach for many Western countries and some of their Asian allies, particularly those that vi… [+1647 chars]",
+    "named_entities": [
+      {
+        "text": "Singapore",
+        "label": "GPE"
+      },
+      {
+        "text": "Western",
+        "label": "NORP"
+      },
+      {
+        "text": "Asian",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.934512"
+  },
+  {
+    "title": "Beware the scams",
+    "summary": "People have become so brazen they use false pretense to trick innocent people into sending money or giving credit card or bank information to them. They pose as the credit card company, the DMV, the … [+4460 chars]",
+    "named_entities": [
+      {
+        "text": "DMV",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.942536"
+  },
+  {
+    "title": "Meridian Corporation Reports Second Quarter 2025 Results and Announces a Quarterly Dividend of $0.125 per Common Share",
+    "summary": "MALVERN, Pa., July 24, 2025 (GLOBE NEWSWIRE) -- Meridian Corporation (Nasdaq: MRBK) today reported:\r\n<table><tr><td> </td><td>Three Months Ended</td></tr><tr><td>(Dollars in thousands, except per sha… [+85122 chars]",
+    "named_entities": [
+      {
+        "text": "MALVERN",
+        "label": "GPE"
+      },
+      {
+        "text": "Pa.",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "Meridian Corporation",
+        "label": "ORG"
+      },
+      {
+        "text": "MRBK",
+        "label": "PERSON"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "Three Months Ended</td></tr><tr><td>(Dollars",
+        "label": "DATE"
+      },
+      {
+        "text": "+85122",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.950831"
+  },
+  {
+    "title": "BlackSuit ransomware leak sites seized in Operation Checkmate",
+    "summary": "Law enforcement has seized the dark web leak sites of the BlackSuit ransomware operation, which has targeted and breached the networks of hundreds of organizations worldwide over the past several yea… [+3227 chars]",
+    "named_entities": [
+      {
+        "text": "BlackSuit",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.957474"
+  },
+  {
+    "title": "Court hands Trump-supporting Mike Lindell $5 million win over 2020 election",
+    "summary": "MyPillow CEO Mike Lindell speaks at an RNC chair candidate forum on Wednesday, Jan. 25, 2023.\r\nAn appeals court has determined that an arbitration panel was not allowed to change the rules of a conte… [+2954 chars]",
+    "named_entities": [
+      {
+        "text": "MyPillow",
+        "label": "ORG"
+      },
+      {
+        "text": "Mike Lindell",
+        "label": "PERSON"
+      },
+      {
+        "text": "RNC",
+        "label": "ORG"
+      },
+      {
+        "text": "Wednesday, Jan. 25, 2023",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.964482"
+  },
+  {
+    "title": "Euro healthcare giant AMEOS Group shuts down IT systems after mystery attack",
+    "summary": "The AMEOS Group, which runs over 100 hospitals across Europe, has shut down its entire network after crims busted in.\r\nThe organization, which is Swiss-owned but runs medical treatment facilities acr… [+2905 chars]",
+    "named_entities": [
+      {
+        "text": "The AMEOS Group",
+        "label": "ORG"
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.971485"
+  },
+  {
+    "title": "Heritage Commerce Corp Reports Second Quarter and First Six Months of 2025 Financial Results",
+    "summary": "SAN JOSE, Calif., July 24, 2025 (GLOBE NEWSWIRE) -- Heritage Commerce Corp(Nasdaq: HTBK), (the Company), the holding company for Heritage Bank of Commerce (the Bank) today announced its financial res… [+202237 chars]",
+    "named_entities": [
+      {
+        "text": "SAN JOSE",
+        "label": "GPE"
+      },
+      {
+        "text": "Calif.",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "Heritage Bank of Commerce",
+        "label": "ORG"
+      },
+      {
+        "text": "Bank",
+        "label": "ORG"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.978485"
+  },
+  {
+    "title": "Best Amazon coupons we've tested in July 2025",
+    "summary": "We've all come to appreciate Amazon's convenience and affordability. It's never too hard to score a deal there, but one lesser-known way to save even more is to use the hundreds of Amazon coupons ava… [+4062 chars]",
+    "named_entities": [
+      {
+        "text": "Amazon",
+        "label": "ORG"
+      },
+      {
+        "text": "Amazon",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.986382"
+  },
+  {
+    "title": "Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet",
+    "summary": "Mike Lindell, the founder and CEO of MyPillow, could be considered a loser in many ways, but not in a way that will cost him $5 million. The New York Times reports that a federal appeals court ruled … [+2726 chars]",
+    "named_entities": [
+      {
+        "text": "Mike Lindell",
+        "label": "PERSON"
+      },
+      {
+        "text": "MyPillow",
+        "label": "ORG"
+      },
+      {
+        "text": "The New York Times",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:51.993400"
+  },
+  {
+    "title": "Basic cybersecurity lapses are leaving US infrastructure exposed, top experts warn",
+    "summary": "NEW YORK Foreign adversaries are becoming more aggressive than ever before in efforts to target U.S. critical infrastructure, but owners and operators are still failing to meet basic security needs f… [+4527 chars]",
+    "named_entities": [
+      {
+        "text": "NEW YORK",
+        "label": "GPE"
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.000689"
+  },
+  {
+    "title": "Microsoft says some SharePoint server hackers now use ransomware",
+    "summary": "A cyber-espionage campaign centred on vulnerable versions of Microsoft's server software now involves the deployment of ransomware, Microsoft said in a blog post.\r\nIn the post, citing \"expanded analy… [+1615 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "analy",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.007878"
+  },
+  {
+    "title": "Microsoft says some SharePoint server hackers now use ransomware",
+    "summary": "A cyber-espionage campaign centred on vulnerable versions of Microsoft's server software now involves the deployment of ransomware, Microsoft said in a blog post.\r\nIn the post, citing \"expanded analy… [+1615 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "analy",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.014887"
+  },
+  {
+    "title": "Microsoft says some SharePoint server hackers now use ransomware",
+    "summary": "A cyber-espionage campaign centred on vulnerable versions of Microsoft's server software now involves the deployment of ransomware, Microsoft said in a blog post.\r\nIn the post, citing \"expanded analy… [+1615 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "analy",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.020909"
+  },
+  {
+    "title": "Microsoft says some SharePoint server hackers now use ransomware",
+    "summary": "A cyber-espionage campaign centred on vulnerable versions of Microsoft's server software now involves the deployment of ransomware, Microsoft said in a blog post.\r\nIn the post, citing \"expanded analy… [+1615 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "analy",
+        "label": "NORP"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.026884"
+  },
+  {
+    "title": "MidWestOne Financial Group, Inc. Reports Financial Results for the Second Quarter of 2025",
+    "summary": "IOWA CITY, Iowa, July 24, 2025 (GLOBE NEWSWIRE) -- MidWestOne Financial Group, Inc. (Nasdaq: MOFG) (\"we,\" \"our,\" or the \"Company\") today reported results for the second quarter of 2025.\r\nSecondQuarte… [+129765 chars]",
+    "named_entities": [
+      {
+        "text": "IOWA CITY",
+        "label": "GPE"
+      },
+      {
+        "text": "Iowa",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "MidWestOne Financial Group, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "the second quarter of 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "SecondQuarte",
+        "label": "ORG"
+      },
+      {
+        "text": "+129765",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.034921"
+  },
+  {
+    "title": "FinWise Bancorp Reports Second Quarter 2025 Results",
+    "summary": "- Loan Originations of $1.5 Billion -\r\n- Net Income of $4.1 Million -\r\n- Diluted Earnings Per Share of $0.29 -\r\nMURRAY, Utah, July 24, 2025 (GLOBE NEWSWIRE) -- FinWise Bancorp (NASDAQ: FINW) (FinWise… [+79802 chars]",
+    "named_entities": [
+      {
+        "text": "Utah",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "FinWise Bancorp",
+        "label": "ORG"
+      },
+      {
+        "text": "FinWise",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.042842"
+  },
+  {
+    "title": "Microsoft SharePoint Breach Sparks Ransomware Risk",
+    "summary": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "named_entities": [
+      {
+        "text": "Consent Framework",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.050357"
+  },
+  {
+    "title": "What to expect during the Black Hat USA event: Join theCUBE August 8",
+    "summary": "As AI-driven threats escalate, security researchers and ethical hackers are reshaping the boundaries of AI security and enterprise protection. This evolving threat landscape is prompting organization… [+6191 chars]",
+    "named_entities": [
+      {
+        "text": "AI",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.056824"
+  },
+  {
+    "title": "Louis Vuitton Customers’ Personal Data Was Leaked in an International Cyberattack",
+    "summary": "Earlier this month, Louis Vuitton suffered a global cyberattack that leaked the personal information of customers around the globe in South Korea, Turkey, the United Kingdom, Italy, and Sweden. It’s … [+2249 chars]",
+    "named_entities": [
+      {
+        "text": "Earlier this month",
+        "label": "DATE"
+      },
+      {
+        "text": "Louis Vuitton",
+        "label": "ORG"
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE"
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE"
+      },
+      {
+        "text": "the United Kingdom",
+        "label": "GPE"
+      },
+      {
+        "text": "Italy",
+        "label": "GPE"
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.063546"
+  },
+  {
+    "title": "UnitedHealth Group Says It Is Cooperating With a DOJ Investigation",
+    "summary": "UnitedHealth Group, the company that owns healthcare conglomerate UnitedHealth, said on Thursday that it is cooperating with the federal government as it fields criminal and civil requests from autho… [+3119 chars]",
+    "named_entities": [
+      {
+        "text": "UnitedHealth Group",
+        "label": "ORG"
+      },
+      {
+        "text": "UnitedHealth",
+        "label": "ORG"
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.068552"
+  },
+  {
+    "title": "DOJ Announces ‘Strike Force’ To Investigate Tulsi Gabbard’s Russiagate Disclosures",
+    "summary": "The United States Department of Justice (DOJ) is forming a Strike Force to review evidence relating to “Russigate,” which Director of National Intelligence (DNI) Tulsi Gabbard publicized Friday, the … [+1900 chars]",
+    "named_entities": [
+      {
+        "text": "The United States Department of Justice",
+        "label": "ORG"
+      },
+      {
+        "text": "a Strike Force",
+        "label": "ORG"
+      },
+      {
+        "text": "National Intelligence",
+        "label": "ORG"
+      },
+      {
+        "text": "Tulsi Gabbard",
+        "label": "ORG"
+      },
+      {
+        "text": "Friday",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.075002"
+  },
+  {
+    "title": "Both Houses of Parliament adjourned over SIR in Bihar",
+    "summary": "STATE TIMES NEWS\r\nNEW DELHI: Lok Sabha and Rajya Sabha proceedings were adjourned on Thursday for the fourth consecutive day amid persistent protests by the Opposition demanding withdrawal of the ong… [+4532 chars]",
+    "named_entities": [
+      {
+        "text": "STATE TIMES NEWS",
+        "label": "ORG"
+      },
+      {
+        "text": "NEW DELHI",
+        "label": "GPE"
+      },
+      {
+        "text": "Lok Sabha",
+        "label": "PERSON"
+      },
+      {
+        "text": "Rajya Sabha",
+        "label": "ORG"
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE"
+      },
+      {
+        "text": "the fourth consecutive day",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.082709"
+  },
+  {
+    "title": "Ice Cube & Eva Longoria’s ‘War Of The Worlds’ Reimagining Gets Prime Video Release Date; Watch The Trailer",
+    "summary": "EXCLUSIVE: Patrick Aiello and Timur Bekmambetov‘s reboot of War of the Worldsis debuting around the world on Prime Video on July 30. \r\nThe modern-day adaptation of H.G. Wells’ classic novel follows W… [+2399 chars]",
+    "named_entities": [
+      {
+        "text": "Patrick Aiello",
+        "label": "PERSON"
+      },
+      {
+        "text": "Timur Bekmambetov‘s",
+        "label": "PERSON"
+      },
+      {
+        "text": "War",
+        "label": "GPE"
+      },
+      {
+        "text": "Worldsis",
+        "label": "PERSON"
+      },
+      {
+        "text": "Prime Video",
+        "label": "ORG"
+      },
+      {
+        "text": "July 30",
+        "label": "DATE"
+      },
+      {
+        "text": "H.G. Wells",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.088959"
+  },
+  {
+    "title": "AWS Security Incident Response: The customer’s journey to accelerating the incident response lifecycle",
+    "summary": "Organizations face mounting challenges in building and maintaining effective security incident response programs. Studies from IBM and Morning Consult show security teams face two major challenges: o… [+27536 chars]",
+    "named_entities": [
+      {
+        "text": "IBM",
+        "label": "ORG"
+      },
+      {
+        "text": "Morning Consult",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.096165"
+  },
+  {
+    "title": "Trump’s CISA nominee is confident he can get funding to cyber agency where needed",
+    "summary": "Sean Plankey, President Donald Trumps pick to head the Cybersecurity and Infrastructure Security Agency, told lawmakers in a Thursday Senate nominations hearing that, despite the significant cuts CIS… [+4508 chars]",
+    "named_entities": [
+      {
+        "text": "Sean Plankey",
+        "label": "PERSON"
+      },
+      {
+        "text": "Donald Trumps",
+        "label": "PERSON"
+      },
+      {
+        "text": "Cybersecurity and Infrastructure Security Agency",
+        "label": "ORG"
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE"
+      },
+      {
+        "text": "Senate",
+        "label": "ORG"
+      },
+      {
+        "text": "CIS",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.101174"
+  },
+  {
+    "title": "BRB, pausing for a \"Sanctuary Moon\" marathon",
+    "summary": "Welcome to this weeks edition of the Threat Source newsletter. \r\nYesterday, Cisco Talos debuted the first Humans of Talos episode, where I interviewed Hazel Burton, a face and voice youre probably fa… [+8140 chars]",
+    "named_entities": [
+      {
+        "text": "this weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "Yesterday",
+        "label": "DATE"
+      },
+      {
+        "text": "Cisco Talos",
+        "label": "PERSON"
+      },
+      {
+        "text": "Hazel Burton",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.109607"
+  },
+  {
+    "title": "Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems",
+    "summary": "Microsoft has revealed that one of the threat actors behind the active exploitation of SharePoint flaws is deploying Warlock ransomware on targeted systems.The tech giant, in an update shared Wednesd… [+159 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "Wednesd",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.117804"
+  },
+  {
+    "title": "Cyberpunk 2077: Ultimate Edition (Xbox Series X|S) Digital Download $39.99 (3 replies)",
+    "summary": "Digital Download. Sale ends 7/31/2025Ultimate Edition Includes:\r\n<ul><li>Cyberpunk 2077</li><li>Cyberpunk 2077 Phantom Liberty expansion</li></ul>https://www.xbox.com/en-us/games/...3m8l83bbrwAlso av… [+1516 chars]",
+    "named_entities": [
+      {
+        "text": "Digital Download",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [
+        "https://www.xbox.com/en-us/games/...3m8l83bbrwAlso"
+      ],
+      "files": []
+    },
+    "severity": "Medium",
+    "timestamp": "2025-07-26T11:21:52.123811"
+  },
+  {
+    "title": "ExaGrid's Q2 2025 Momentum",
+    "summary": "ExaGrid, the industry's only Tiered Backup Storage solution with Retention Time-Lock that includes a non-network-facing tier (creating a tiered air gap), delayed deletes and immutability for ransomwa… [+2721 chars]",
+    "named_entities": [
+      {
+        "text": "ExaGrid",
+        "label": "ORG"
+      },
+      {
+        "text": "Tiered Backup Storage",
+        "label": "ORG"
+      },
+      {
+        "text": "Retention Time-Lock",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.131698"
+  },
+  {
+    "title": "ExaGrid's Q2 2025 Momentum",
+    "summary": "ExaGrid, the industry's only Tiered Backup Storage solution with Retention Time-Lock that includes a non-network-facing tier (creating a tiered air gap), delayed deletes and immutability for ransomwa… [+2721 chars]",
+    "named_entities": [
+      {
+        "text": "ExaGrid",
+        "label": "ORG"
+      },
+      {
+        "text": "Tiered Backup Storage",
+        "label": "ORG"
+      },
+      {
+        "text": "Retention Time-Lock",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.138007"
+  },
+  {
+    "title": "Intel 471 Advances Threat Hunting With the Launch of Guided Threat Hunts",
+    "summary": "Intel 471 launched Guided Threat Hunts, a new method-driven tool within the Hunt Management Module, part of our HUNTER solution. As threat hunting for advanced adversaries continues to be an increasi… [+2974 chars]",
+    "named_entities": [
+      {
+        "text": "Intel",
+        "label": "ORG"
+      },
+      {
+        "text": "the Hunt Management Module",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.144469"
+  },
+  {
+    "title": "Intel 471 Advances Threat Hunting With the Launch of Guided Threat Hunts",
+    "summary": "Intel 471 launched Guided Threat Hunts, a new method-driven tool within the Hunt Management Module, part of our HUNTER solution. As threat hunting for advanced adversaries continues to be an increasi… [+2974 chars]",
+    "named_entities": [
+      {
+        "text": "Intel",
+        "label": "ORG"
+      },
+      {
+        "text": "the Hunt Management Module",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.150512"
+  },
+  {
+    "title": "India-UK FTA calls for open internet access, cross-border consumer protection",
+    "summary": "India and the UK signed a pact to ensure open access to the internet for their citizens and adopt measures to protect consumers in the digital space, including action against cyber crime and spammers… [+3025 chars]",
+    "named_entities": [
+      {
+        "text": "India",
+        "label": "GPE"
+      },
+      {
+        "text": "UK",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.157664"
+  },
+  {
+    "title": "Microsoft SharePoint Flaw Is Being Abused to Spread Ransomware",
+    "summary": "The severe vulnerability in Microsoft's SharePoint software is not only paving the way for data theft, but also ransomware attacks. \r\nOn Wednesday night, Microsoft issued an alert about a hacking gro… [+2282 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.163670"
+  },
+  {
+    "title": "Microsoft SharePoint Flaw Is Being Abused to Spread Ransomware",
+    "summary": "The severe vulnerability in Microsoft's SharePoint software is not only paving the way for data theft, but also ransomware attacks. \r\nOn Wednesday night, Microsoft issued an alert about a hacking gro… [+2282 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.169666"
+  },
+  {
+    "title": "White House sends mixed signals in Russia 'hoax' blame game",
+    "summary": "The White House is claiming that Russia was attempting to sow \"distrust and chaos,\" even as reports from the Office of the Director of National Intelligence suggest the Obama administration \"manipula… [+5083 chars]",
+    "named_entities": [
+      {
+        "text": "The White House",
+        "label": "ORG"
+      },
+      {
+        "text": "Russia",
+        "label": "GPE"
+      },
+      {
+        "text": "the Office of the Director of National Intelligence",
+        "label": "ORG"
+      },
+      {
+        "text": "Obama",
+        "label": "PERSON"
+      },
+      {
+        "text": "manipula",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.176360"
+  },
+  {
+    "title": "TeleSpecialists Earns Second Consecutive HITRUST i1 Certification for TeleCare Platform",
+    "summary": "Fort Myers, Fla., July 24, 2025 (GLOBE NEWSWIRE) -- TeleSpecialists has secured the HITRUST i1 Certification for its proprietary TeleCare by TeleSpecialists software for the second consecutive year, … [+2659 chars]",
+    "named_entities": [
+      {
+        "text": "Fort Myers",
+        "label": "GPE"
+      },
+      {
+        "text": "Fla.",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "TeleSpecialists",
+        "label": "ORG"
+      },
+      {
+        "text": "TeleCare",
+        "label": "ORG"
+      },
+      {
+        "text": "TeleSpecialists",
+        "label": "ORG"
+      },
+      {
+        "text": "the second consecutive year",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.182800"
+  },
+  {
+    "title": "How Hackers Targeted Microsoft in Global Cyberattack",
+    "summary": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Teslas profits plunge again? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-Japan trade deal impact … [+739 chars]",
+    "named_entities": [
+      {
+        "text": "{ window.open(this.href, '_",
+        "label": "PERSON"
+      },
+      {
+        "text": "Teslas",
+        "label": "PERSON"
+      },
+      {
+        "text": "window.open(this.href",
+        "label": "PERSON"
+      },
+      {
+        "text": "US",
+        "label": "GPE"
+      },
+      {
+        "text": "Japan",
+        "label": "GPE"
+      },
+      {
+        "text": "+739",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.189807"
+  },
+  {
+    "title": "Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments",
+    "summary": "Virtualization and networking infrastructure have been targeted by a threat actor codenamed Fire Ant as part of a prolonged cyber espionage campaign.\r\nThe activity, observed this year, is primarily d… [+4476 chars]",
+    "named_entities": [
+      {
+        "text": "Fire Ant",
+        "label": "PERSON"
+      },
+      {
+        "text": "this year",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.196806"
+  },
+  {
+    "title": "Microsoft: SharePoint attacks now officially include ransomware infections",
+    "summary": "Let the games beginRansomware has officially entered the Microsoft SharePoint exploitation ring.\r\nThis story appeared on go.theregister.com, 2025-07-24 16:54:48.",
+    "named_entities": [
+      {
+        "text": "Microsoft SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "go.theregister.com",
+        "label": "ORG"
+      },
+      {
+        "text": "2025-07-24",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.201808"
+  },
+  {
+    "title": "iDefender 5.0.3.0",
+    "summary": "What is iDefender?\r\niDefender is a cutting-edge security solution designed for home use, offering both an Intrusion Prevention System (HIPS) and Real-time Endpoint Detection and Response (EDR). This … [+3641 chars]",
+    "named_entities": [
+      {
+        "text": "iDefender",
+        "label": "ORG"
+      },
+      {
+        "text": "iDefender",
+        "label": "ORG"
+      },
+      {
+        "text": "an Intrusion Prevention System",
+        "label": "ORG"
+      },
+      {
+        "text": "EDR",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.208593"
+  },
+  {
+    "title": "Microsoft: SharePoint attacks now officially include ransomware infections",
+    "summary": "Ransomware has officially entered the Microsoft SharePoint exploitation ring.\r\nLate Wednesday, in an update to its earlier warning, Redmond confirmed that a threat group it tracks as Storm-2603 is ab… [+3443 chars]",
+    "named_entities": [
+      {
+        "text": "Ransomware",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "Late Wednesday",
+        "label": "DATE"
+      },
+      {
+        "text": "Redmond",
+        "label": "PERSON"
+      },
+      {
+        "text": "Storm-2603",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.215593"
+  },
+  {
+    "title": "INE Security Launches Updated Certified Threat Hunting Professional (eCTHP) Cybersecurity Certification",
+    "summary": "Cary, NC, July 24, 2025 (GLOBE NEWSWIRE) -- INE Security\r\n, a leader in cybersecurity education, is announcing the launch of its updated Certified Threat Hunting Professional (eCTHP) certification\r\n.… [+3671 chars]",
+    "named_entities": [
+      {
+        "text": "Cary, NC",
+        "label": "ORG"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "INE Security",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.222593"
+  },
+  {
+    "title": "MPs, diplomats hail Operation Sindoor, asks world to pressure Pakistan to stop terror",
+    "summary": "Ahead of the debate in parliament on Operation Sindoor, eminent parliamentarians, diplomats, and defence experts hailed the military strikes on terror hubs in Pakistan and asked the world to intensif… [+4433 chars]",
+    "named_entities": [
+      {
+        "text": "Operation Sindoor",
+        "label": "ORG"
+      },
+      {
+        "text": "Pakistan",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.229553"
+  },
+  {
+    "title": "Surges in Cyber Activity Accompany Regional Military Operations",
+    "summary": "Geopolitical events and military operations often trigger a cascade of online activity, both legitimate and malicious. Recent data from our global threat network highlights the strong connection betw… [+4337 chars]",
+    "named_entities": [],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.235240"
+  },
+  {
+    "title": "Microsoft fixes SharePoint zero-day exploits used in cyberattacks and ransomware - how to patch them",
+    "summary": "Kiryl Pro motion / Getty Images\r\nMicrosoft has patched three critical zero-day SharePoint security flaws that hackers have already exploited to attack more vulnerable organizations. Responding to the… [+9502 chars]",
+    "named_entities": [
+      {
+        "text": "Kiryl Pro",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "zero-day",
+        "label": "DATE"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "+9502",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.240254"
+  },
+  {
+    "title": " ICT Boom: US-Nepal Tech Partnership Takes Off! ",
+    "summary": "Kathmandu The American Chamber of Commerce in Nepal (AmCham Nepal) recently hosted a successful webinar in collaboration with the U.S. Embassy in Nepal and the U.S. Department of Commerces Commercial… [+4982 chars]",
+    "named_entities": [
+      {
+        "text": "Kathmandu",
+        "label": "GPE"
+      },
+      {
+        "text": "The American Chamber of Commerce",
+        "label": "ORG"
+      },
+      {
+        "text": "Nepal",
+        "label": "GPE"
+      },
+      {
+        "text": "AmCham Nepal",
+        "label": "PERSON"
+      },
+      {
+        "text": "the U.S. Embassy",
+        "label": "ORG"
+      },
+      {
+        "text": "Nepal",
+        "label": "GPE"
+      },
+      {
+        "text": "the U.S. Department of Commerces Commercial",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.246642"
+  },
+  {
+    "title": "Cybersecurity Testing Can Ensure Cyber Resilience—Here's How To Do It",
+    "summary": "By Zach Amos\r\nToo many businesses are dangerously overestimating their cyber resilience.\r\ngetty\r\nAny business that has an online presence is vulnerable to a cyberattack. Most vulnerabilities are due … [+9446 chars]",
+    "named_entities": [
+      {
+        "text": "Zach Amos",
+        "label": "PERSON"
+      },
+      {
+        "text": "getty\r\n",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.253666"
+  },
+  {
+    "title": "Comprehensive solutions from HPE for safeguarding your data",
+    "summary": "Partner content In today's digital landscape, organizations face relentless threats and disruptions that can compromise their data integrity and operational continuity. As hybrid IT environments grow… [+6135 chars]",
+    "named_entities": [
+      {
+        "text": "today",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.258674"
+  },
+  {
+    "title": "[Security Blog] The Hidden Dangers of Third-Party Risk: Lessons from the Recent Data Breaches",
+    "summary": "As organizations increasingly rely on external vendors, the unseen risks lurking in third-party relationships have become a prime target for cybercriminals. Recent breaches at major firms like Marks … [+6193 chars]",
+    "named_entities": [
+      {
+        "text": "Marks",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.266081"
+  },
+  {
+    "title": "ING completes acquisition of Van Lanschot Kempen stake",
+    "summary": "ING completes acquisition of Van Lanschot Kempen stake \r\nING announced today that it has completed the acquisition of a 17.6% stake in Van Lanschot Kempen N.V., bringing the total interest in the com… [+10315 chars]",
+    "named_entities": [
+      {
+        "text": "Van Lanschot Kempen",
+        "label": "ORG"
+      },
+      {
+        "text": "ING",
+        "label": "ORG"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "Van Lanschot Kempen N.V.",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.271421"
+  },
+  {
+    "title": "Ted Cruz: Russia Hoax 'About Subverting Democracy' — 'They Were Mad' About Donald Trump",
+    "summary": "Wednesday on FNC’s “The Ingraham Angle,” Sen. Ted Cruz (R-TX) reacted to recently unveiled evidence by Director of National Intelligence regarding former President Barack Obama’s alleged involvement … [+4871 chars]",
+    "named_entities": [
+      {
+        "text": "Wednesday",
+        "label": "DATE"
+      },
+      {
+        "text": "FNC’s",
+        "label": "ORG"
+      },
+      {
+        "text": "Ted Cruz",
+        "label": "PERSON"
+      },
+      {
+        "text": "National Intelligence",
+        "label": "ORG"
+      },
+      {
+        "text": "Barack Obama",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.277909"
+  },
+  {
+    "title": "Sam Altman says ChatGPT is 'bad' and 'dangerous' if used like this: OpenAI CEO warns AI users",
+    "summary": "OpenAI CEO Sam Altman has raised serious concerns about how deeply young people are starting to rely on ChatGPT for personal decision-making. Speaking at a banking conference hosted by the Federal Re… [+2997 chars]",
+    "named_entities": [
+      {
+        "text": "OpenAI",
+        "label": "ORG"
+      },
+      {
+        "text": "Sam Altman",
+        "label": "PERSON"
+      },
+      {
+        "text": "the Federal Re",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.285231"
+  },
+  {
+    "title": "Westamerica Bancorporation Declares Quarterly Cash Dividend",
+    "summary": "SAN RAFAEL, Calif., July 24, 2025 (GLOBE NEWSWIRE) -- The Board of Directors of Westamerica Bancorporation (NASDAQ: WABC) today declared a quarterly cash dividend of $0.46 per share on common stock o… [+2885 chars]",
+    "named_entities": [
+      {
+        "text": "SAN RAFAEL",
+        "label": "GPE"
+      },
+      {
+        "text": "Calif.",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "The Board of Directors of Westamerica Bancorporation",
+        "label": "ORG"
+      },
+      {
+        "text": "WABC",
+        "label": "PERSON"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "quarterly",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.291617"
+  },
+  {
+    "title": "Storm-2603 spotted deploying ransomware on exploited SharePoint servers",
+    "summary": "One of the groups that, in the past few weeks, has been exploiting vulnerabilities in on-prem SharePoint installation has been observed deploying Warlock ransomware, Microsoft shared on Wednesday.\r\nF… [+4873 chars]",
+    "named_entities": [
+      {
+        "text": "the past few weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.298306"
+  },
+  {
+    "title": "iPhone Users Are More Likely To Fall For Scams Than Android Users",
+    "summary": "iPhone users are more likely to fall victim to online scams and less likely to practice safe online habits compared to Android users, according to new research from cybersecurity firm Malwarebytes.\r\n… [+5762 chars]",
+    "named_entities": [
+      {
+        "text": "Android",
+        "label": "ORG"
+      },
+      {
+        "text": "Malwarebytes",
+        "label": "GPE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.304395"
+  },
+  {
+    "title": "Keeper Security Releases Global Insight Report, \"Securing Privileged Access: The Key to Modern Enterprise Defense\"",
+    "summary": "Keeper Security\r\n, the leading\r\ncybersecurity provider of zero-trust and zero-knowledge Privileged Access\r\nManagement (PAM) software protecting passwords and passkeys, privileged\r\naccounts and endpoi… [+3830 chars]",
+    "named_entities": [
+      {
+        "text": "Keeper Security",
+        "label": "ORG"
+      },
+      {
+        "text": "Privileged Access\r\nManagement (PAM",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.311655"
+  },
+  {
+    "title": "Keeper Security Releases Global Insight Report, \"Securing Privileged Access: The Key to Modern Enterprise Defense\"",
+    "summary": "Keeper Security\r\n, the leading\r\ncybersecurity provider of zero-trust and zero-knowledge Privileged Access\r\nManagement (PAM) software protecting passwords and passkeys, privileged\r\naccounts and endpoi… [+3830 chars]",
+    "named_entities": [
+      {
+        "text": "Keeper Security",
+        "label": "ORG"
+      },
+      {
+        "text": "Privileged Access\r\nManagement (PAM",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.317086"
+  },
+  {
+    "title": "The UK Online Safety Act is here: What you need to know about the new age verification legislation",
+    "summary": "The UK Online Safety Act, which forces websites that host adult content in the UK to implement age verification checks, is set to go into effect here’s what you need to know.\r\nFrom Friday (25 July), … [+5697 chars]",
+    "named_entities": [
+      {
+        "text": "UK",
+        "label": "GPE"
+      },
+      {
+        "text": "Friday",
+        "label": "DATE"
+      },
+      {
+        "text": "25 July",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.325541"
+  },
+  {
+    "title": "Gabbard Refers Barack Obama for Criminal Investigation Over Russiagate Scandal",
+    "summary": "Skip to comments.\r\nGabbard Refers Barack Obama for Criminal Investigation Over Russiagate ScandalPJ Media ^\r\n | 7/23/2025\r\n | Matt Margolis\r\nPosted on 07/24/2025 8:26:52 AM PDT by simpson96\r\nBarack O… [+2654 chars]",
+    "named_entities": [
+      {
+        "text": "Gabbard Refers",
+        "label": "PERSON"
+      },
+      {
+        "text": "Barack Obama",
+        "label": "PERSON"
+      },
+      {
+        "text": "Matt Margolis",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.332870"
+  },
+  {
+    "title": "Port Infrastructure Strategic Business Report 2025-2030 | Unlocking Maritime Throughput - Why Port Infrastructure Is Emerging as a Strategic Economic Pillar",
+    "summary": "Dublin, July 24, 2025 (GLOBE NEWSWIRE) -- The \"Port Infrastructure - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.\r\nUnlocking Maritime Throughput: Why … [+12709 chars]",
+    "named_entities": [
+      {
+        "text": "Dublin",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "ResearchAndMarkets.com",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.338945"
+  },
+  {
+    "title": "DHS, HHS among agencies hacked in Microsoft Sharepoint breach",
+    "summary": "Washington — Department of Homeland Security headquarters, several of its component agencies and the Department of Health and Human Services have been hacked as part of a wider breach of Microsoft's … [+2403 chars]",
+    "named_entities": [
+      {
+        "text": "Washington",
+        "label": "GPE"
+      },
+      {
+        "text": "Department of Homeland Security",
+        "label": "ORG"
+      },
+      {
+        "text": "the Department of Health and Human Services",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.346446"
+  },
+  {
+    "title": "The D Brief: IG probes Signalgate; USAF’s F-35 plans; DHS hit by China hack; Migrant jail at Bliss; And a bit more.",
+    "summary": "Hegseths Signalgate headache returns. Defense Secretary Pete Hegseth may have perjured himself when he told lawmakers that text messages shared with a journalist in mid-March contained no classified … [+10157 chars]",
+    "named_entities": [
+      {
+        "text": "Hegseths Signalgate",
+        "label": "ORG"
+      },
+      {
+        "text": "Defense",
+        "label": "ORG"
+      },
+      {
+        "text": "Pete Hegseth",
+        "label": "PERSON"
+      },
+      {
+        "text": "mid-March",
+        "label": "DATE"
+      },
+      {
+        "text": "+10157",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.353101"
+  },
+  {
+    "title": "Microsoft says China-based hackers exploiting critical SharePoint vulnerabilities to deploy Warlock ransomware — three China-affiliated threat actors seen taking advantage",
+    "summary": "Microsoft said that a hacking group it's tracking as Storm-2603 is exploiting critical vulnerabilities in the company's SharePoint platform to deploy ransomware.\r\nSharePoint is \"a secure, enterprise-… [+3708 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Storm-2603",
+        "label": "ORG"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      },
+      {
+        "text": "SharePoint",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.359972"
+  },
+  {
+    "title": "National Review and The Wall Steet Journal Both Reject Trump’s ‘Treason’ Charge Against Obama",
+    "summary": "Both National Review and The Wall Street Journal have new editorials out rejecting President Donald Trump and Director of National Intelligence Tulsi Gabbard’sassertion that former President Barack O… [+3740 chars]",
+    "named_entities": [
+      {
+        "text": "National Review",
+        "label": "ORG"
+      },
+      {
+        "text": "The Wall Street Journal",
+        "label": "ORG"
+      },
+      {
+        "text": "Donald Trump",
+        "label": "PERSON"
+      },
+      {
+        "text": "Barack",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.366257"
+  },
+  {
+    "title": "OpenAI prepares to launch GPT-5 in August",
+    "summary": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs open language model is still arriving ahead of GPT-5.\r\nOpenAIs open language model is still arriving ahead of GPT-5.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPo… [+15831 chars]",
+    "named_entities": [
+      {
+        "text": "Tom WarrenClose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Tom Warren",
+        "label": "PERSON"
+      },
+      {
+        "text": "Po",
+        "label": "ORG"
+      },
+      {
+        "text": "+15831",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.372266"
+  },
+  {
+    "title": "FBI Exposes The Com’s Criminal Activities and Involvement of Minors",
+    "summary": "The US Federal Bureau of Investigation (FBI) has issued a series of Public Service Announcements (PSAs) warning of an increasingly dangerous online criminal network known as The Com, short for The Co… [+2701 chars]",
+    "named_entities": [
+      {
+        "text": "The US Federal Bureau of Investigation (FBI",
+        "label": "ORG"
+      },
+      {
+        "text": "Public Service Announcements",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.378259"
+  },
+  {
+    "title": "HII is Awarded Task Order to Develop Training Simulations for the U.S. Air Force and U.S. Space Force",
+    "summary": "MCLEAN, Va., July 24, 2025 (GLOBE NEWSWIRE) -- HII (NYSE: HII) announced today that its Mission Technologies division was awarded a $74 million task order to provide modeling and simulation capabilit… [+3432 chars]",
+    "named_entities": [
+      {
+        "text": "MCLEAN",
+        "label": "GPE"
+      },
+      {
+        "text": "Va.",
+        "label": "GPE"
+      },
+      {
+        "text": "July 24, 2025",
+        "label": "DATE"
+      },
+      {
+        "text": "GLOBE NEWSWIRE",
+        "label": "ORG"
+      },
+      {
+        "text": "HII",
+        "label": "ORG"
+      },
+      {
+        "text": "NYSE",
+        "label": "ORG"
+      },
+      {
+        "text": "HII",
+        "label": "ORG"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "Mission Technologies",
+        "label": "ORG"
+      },
+      {
+        "text": "capabilit",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.385266"
+  },
+  {
+    "title": "Russian media hypes nuclear showdown with the West — is Putin preparing for World War III?",
+    "summary": "Russia's state-run media has been talking more about nuclear war in the last few weeks, which has made people worried both at home and abroad. More and more people are talking about Kaliningrad, Mold… [+4335 chars]",
+    "named_entities": [
+      {
+        "text": "Russia",
+        "label": "GPE"
+      },
+      {
+        "text": "the last few weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "Mold",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.392260"
+  },
+  {
+    "title": "Microsoft Says Some SharePoint Server Hackers Now Using Ransomware",
+    "summary": "A cyber-espionage campaign centered on vulnerable versions of Microsoft’s server software now involves the deployment of ransomware, Microsoft said in a late Wednesday blog post.\r\nIn the post, citing… [+2259 chars]",
+    "named_entities": [
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "a late Wednesday",
+        "label": "DATE"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.398740"
+  },
+  {
+    "title": "Russiagate’s Architects Suppressed Doubts to Peddle False Claims",
+    "summary": "Barack Obama and his CIA Director John Brennan in the Oval Office. – white house photo\r\nThis story originally was published by Real Clear Wire.\r\nBy Aaron MatéReal Clear Wire\r\nAlthough Robert Mueller … [+18003 chars]",
+    "named_entities": [
+      {
+        "text": "Barack Obama",
+        "label": "PERSON"
+      },
+      {
+        "text": "CIA",
+        "label": "ORG"
+      },
+      {
+        "text": "John Brennan",
+        "label": "PERSON"
+      },
+      {
+        "text": "white house",
+        "label": "ORG"
+      },
+      {
+        "text": "Aaron MatéReal",
+        "label": "PERSON"
+      },
+      {
+        "text": "Robert Mueller",
+        "label": "PERSON"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.405561"
+  },
+  {
+    "title": "Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices",
+    "summary": "Sophos and SonicWall have alerted users of critical security flaws in Sophos Firewall and Secure Mobile Access (SMA) 100 Series appliances that could be exploited to achieve remote code execution. \r\n… [+3705 chars]",
+    "named_entities": [
+      {
+        "text": "SonicWall",
+        "label": "ORG"
+      },
+      {
+        "text": "Secure Mobile Access",
+        "label": "ORG"
+      },
+      {
+        "text": "SMA",
+        "label": "ORG"
+      }
+    ],
+    "iocs": {
+      "ips": [],
+      "urls": [],
+      "files": []
+    },
+    "severity": "Low",
+    "timestamp": "2025-07-26T11:21:52.411390"
+  }
+]
