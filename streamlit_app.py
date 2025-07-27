@@ -18,14 +18,14 @@ if selected_incident:
     st.subheader(selected_incident["title"])
 
     st.markdown("### 📰 Full News Content")
-    st.write(selected_incident.get("text", "No article content available."))
+    st.write(selected_incident.get("summary", "No article content available."))
 
     st.markdown("### 🧠 Extracted Entities")
-    entities = selected_incident.get("entities", [])
+    entities = selected_incident.get("named_entities", [])
 
     if entities:
-        for label, text in entities:
-            st.markdown(f"- **{label}**: {text}")
+        for ent in entities:
+            st.markdown(f"- **{ent['label']}**: {ent['text']}")
     else:
         st.info("No entities extracted for this article.")
 
