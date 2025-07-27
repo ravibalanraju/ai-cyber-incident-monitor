@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 import streamlit as st
 import json
 
@@ -41,9 +40,6 @@ if selected_incident:
     st.write(f"**Severity Level:** {selected_incident.get('severity', 'Unknown')}")
 else:
     st.warning("No incident selected.")
-=======
-=======
->>>>>>> aef2ec7 (Initial commit for AI Cyber Incident Monitor)
 import streamlit as st
 import json
 
@@ -85,7 +81,3 @@ if selected_incident:
     st.write(f"**Severity Level:** {selected_incident.get('severity', 'Unknown')}")
 else:
     st.warning("No incident selected.")
-<<<<<<< HEAD
->>>>>>> aef2ec7 (Initial commit for AI Cyber Incident Monitor)
-=======
->>>>>>> aef2ec7 (Initial commit for AI Cyber Incident Monitor)
