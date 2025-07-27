@@ -1,0 +1,36 @@
+name: 🔄 Scrape + Enrich Cyber News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # Runs every 6 hours
+  workflow_dispatch:        # Manual trigger button
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: 🧠 Run Scraper + Enrichment
+        run: python main.py
+
+      - name: 💾 Commit Updated JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add incident_data.json
+          git commit -m "🤖 Auto-update incident feed"
+          git push
